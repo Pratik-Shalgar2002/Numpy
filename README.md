@@ -552,7 +552,7 @@ b = np.append(n,4)
 print(b)
 ````
 #### 2-D
-````
+```
 n = np.array([[1,2,3,4],[5,6,7,8]])
 print(n)
 # Insert Function
